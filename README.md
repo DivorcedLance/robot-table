@@ -2,6 +2,10 @@
 
 Bienvenido al proyecto Robot Table. Coloca y mueve robots por el tablero utilizando comandos específicos y observa cómo interactúan en tiempo real.
 
+# Ver demo:
+
+Demo de la página: https://divorcedlance.github.io/robot-table/
+
 ## Características
 
 1. **Tablero Interactivo**: Un espacio gráfico para visualizar y mover robots.
