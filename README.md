@@ -37,11 +37,3 @@ Usa el comando `GIRAR` seguido del ID del robot y la dirección ('IZQ' o 'DER').
 ### Teletransportar un Robot
 
 Para teletransportar un robot, utiliza el comando `TELEPORT` seguido del ID y las coordenadas de destino `(x,y)`.
-
-## Instalación y Configuración
-
-1. Clona este repositorio.
-
-## Contribuir
-
-Si tienes ideas o sugerencias para mejorar este proyecto, no dudes en crear un issue o enviar un pull request.
